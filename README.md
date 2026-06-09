@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola, soy Sergio 👋
 
-<!--
-**Brenes93/Brenes93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Web Junior en transición al sector tecnológico.
 
-Here are some ideas to get you started:
+## Actualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Formación Full Stack Software Developer (4Geeks Academy)
+* 📚 Aprendiendo mediante FreeCodeCamp
+* 🚀 Desarrollando BarPilot AI
+
+## Tecnologías
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Python
+* Flask
+* SQL
+* Git
+* GitHub
+
+## Objetivo
+
+Conseguir mi primera oportunidad profesional en desarrollo de software mientras continúo construyendo proyectos reales y ampliando mis conocimientos.
+
+## Proyecto principal
+
+🚀 BarPilot AI - Aplicación para gestión de empleados, horarios y operaciones en hostelería.
